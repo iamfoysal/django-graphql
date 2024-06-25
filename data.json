@@ -1,0 +1,57 @@
+[
+    {
+        "model": "inventory.libraryitem",
+        "pk": 1,
+        "fields": {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "year_published": "1925",
+            "rating": 5,
+            "created_at": "2024-03-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "inventory.libraryitem",
+        "pk": 2,
+        "fields": {
+            "title": "1984",
+            "author": "George Orwell",
+            "year_published": "1949",
+            "rating": 5,
+            "created_at": "2024-03-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "inventory.libraryitem",
+        "pk": 3,
+        "fields": {
+            "title": "To Kill a Mockingbird",
+            "author": "Foysal D-costa",
+            "year_published": "2024",
+            "rating": 5,
+            "created_at": "2024-03-03T00:00:00Z"
+        }
+    },
+    {
+        "model": "inventory.libraryitem",
+        "pk": 4,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "year_published": "1951",
+            "rating": 4,
+            "created_at": "2024-03-01T00:00:00Z"
+        }
+    },
+    {
+        "model": "inventory.libraryitem",
+        "pk": 5,
+        "fields": {
+            "title": "Moby-Dick",
+            "author": "Herman Melville",
+            "year_published": "1851",
+            "rating": 4,
+            "created_at":"2024-03-03T00:00:00Z"
+        }
+    }
+]
