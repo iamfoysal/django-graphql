@@ -1,2 +1,2 @@
-# django-graphql
+# Django-graphql
 Building a GraphQL API with Django Using Graphene
